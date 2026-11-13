@@ -990,7 +990,7 @@ metafile = true
 
 [[files]]
 file = "mods/armor-of-the-ages.pw.toml"
-hash = "929920a2315fa900e97f8fc86f9e2948de5d503901121c33069304ba7e3f7474"
+hash = "1e9074abb4a01173d44d3b263badb2769b822aa871581f478930bf1b35c4cc83"
 metafile = true
 
 [[files]]
@@ -1040,7 +1040,7 @@ metafile = true
 
 [[files]]
 file = "mods/corail-tombstone.pw.toml"
-hash = "1a72836c1822e66177c7e60d5256725e948c12966b23fea37aca62a3d43df260"
+hash = "e82f9886f1d2ae2315477eb420867cf0449200c5a70b85904a3067cb2230798d"
 metafile = true
 
 [[files]]
@@ -1090,7 +1090,7 @@ metafile = true
 
 [[files]]
 file = "mods/dawn-of-time.pw.toml"
-hash = "845504d6e3bc8fbf5536b88265b412a2b8b3fb54353d19011eabff0cd16b3000"
+hash = "4a2f93152bce2c04256c538e4df76f40ae5c1c71344d6912077513564f7aa535"
 metafile = true
 
 [[files]]
@@ -1150,7 +1150,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "8f1af185eaf7a3451f710eeb9a762857b12ecbb3bff77043fa96c3c310a27621"
+hash = "70035c382995003e71d12ff360f3e9e27fc01835332c3befa17155e7b639dcd2"
 metafile = true
 
 [[files]]
@@ -1165,7 +1165,7 @@ metafile = true
 
 [[files]]
 file = "mods/ice-and-fire-curios-and-trinkets.pw.toml"
-hash = "f7fc294ff0c5e9d70dba1eb1ee03fa70ba37bbc2f2ab7cec71c613c8e1696cdb"
+hash = "f7951fea65117004f2a3f6fa45042f282b4a852061d80e12220341aa0bc13911"
 metafile = true
 
 [[files]]
@@ -1174,8 +1174,8 @@ hash = "94c7c45a70d0cea86695ecd467f8e5c22510442c53c44291a570986e234428e5"
 metafile = true
 
 [[files]]
-file = "mods/ingenium-api.pw.toml"
-hash = "0b6b557af6b2ae6b319ef0a4b42f1ab8ca08c14537b6bb552f65d09dac91b183"
+file = "mods/ingeniumapi.pw.toml"
+hash = "a2b7fdb33b2bd50fbafcd7bf0c3f9f595726ffcfe1682648c4a975e2d020af13"
 metafile = true
 
 [[files]]
@@ -1300,7 +1300,7 @@ metafile = true
 
 [[files]]
 file = "mods/shippy-ships.pw.toml"
-hash = "41f844138aa5077be9d2a185f283d0cfd963e223b6948128ca6c93d6c73873f5"
+hash = "3257153ddb9505adb7dabd62b626bce8e15fdad7e3c95eaff77137051d244adf"
 metafile = true
 
 [[files]]
@@ -1390,7 +1390,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
+hash = "f3b3d035b89519faccc4ddd8b0b4407ce96c0eb49068fe50a445d43a3baa8bea"
 metafile = true
 
 [[files]]

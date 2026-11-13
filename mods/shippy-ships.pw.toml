@@ -3,11 +3,11 @@ filename = "shippy_ships-201.25.1-FORGE.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d9426b8e4a03dcb8d51ba74364e4ca1559864b55"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/oxBNHOmi/versions/diWNTHFc/shippy_ships-201.25.1-FORGE.jar"
+hash-format = "sha512"
+hash = "ead281a47c45c198a7cca748574d7247c4b3f6903d245e4ee72f871accb64ebcd2c680c9a714a5ddb9882af8f7faf3104bcc2dedc98d7768f64bc07c3ed3ec61"
 
 [update]
-[update.curseforge]
-file-id = 9140940
-project-id = 1551850
+[update.modrinth]
+mod-id = "oxBNHOmi"
+version = "diWNTHFc"
