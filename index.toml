@@ -1269,6 +1269,11 @@ hash = "4b0bda60db3fc2f47e876e6e2e4a15c5d4f0d0e8a98fc8ce10a1b6694549b466"
 metafile = true
 
 [[files]]
+file = "mods/rats.pw.toml"
+hash = "c4b46cb349e3f111af5711429b444dcb790e73f312feb5f9b8e04cd41a9c7b75"
+metafile = true
+
+[[files]]
 file = "mods/realistic-horse-genetics.pw.toml"
 hash = "c56bcec3ee959718dc87225ddc946de960a7f0c04509fdf6e1c8490853b56b24"
 metafile = true
