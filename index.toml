@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "fe2fb19ba4d0fec45626237b701d857ac3c7c961efd5b4b7ccfff6cd512872f8"
-metafile = true
-
-[[files]]
 file = "config/NuclearCraft/accelerator.toml"
 hash = "b8a63462039ce04cc720547a047c46c9064a6a581fb4dfbd422dda4c682d9cca"
 
@@ -1245,7 +1240,7 @@ metafile = true
 
 [[files]]
 file = "mods/mixinbooster.pw.toml"
-hash = "22f9313ff4357b8d30a8dbc15c5dfe15a82509cb63fda5fb066846b750f6e824"
+hash = "e038113855a2314874ce6bc017caeb33bd5f82a554a118153b88d23a36e6ce6d"
 metafile = true
 
 [[files]]
@@ -1270,7 +1265,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
@@ -1396,4 +1391,9 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "070d3121c3096d9f744f3f75a24653b1770bbf46219863afff25db92b88699e4"
 metafile = true
