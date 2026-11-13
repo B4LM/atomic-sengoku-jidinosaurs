@@ -1,0 +1,13 @@
+name = "Shippy Ships"
+filename = "shippy_ships-201.25.1-FORGE.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d9426b8e4a03dcb8d51ba74364e4ca1559864b55"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9140940
+project-id = 1551850

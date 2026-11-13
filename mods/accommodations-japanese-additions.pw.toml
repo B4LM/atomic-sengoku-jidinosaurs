@@ -1,0 +1,13 @@
+name = "Accommodations (Japanese Additions)"
+filename = "accommodation_-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7083de5c09cdc006a631fbfce3a0a5b952c1957e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5031000
+project-id = 709080

@@ -1,0 +1,13 @@
+name = "Steel & Sakura"
+filename = "steelandsakura-1.3.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ea7747eb60a82ec633cbd54ce45dbabdd9154e5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5741235
+project-id = 1090172
