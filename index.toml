@@ -1239,11 +1239,6 @@ hash = "f0965cdc5cdb353d94bf0ad135e716c3c1e54cc389255b0be8830de07b95a4ba"
 metafile = true
 
 [[files]]
-file = "mods/mixinbooster.pw.toml"
-hash = "e038113855a2314874ce6bc017caeb33bd5f82a554a118153b88d23a36e6ce6d"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c74d4384dfc749a8172a8c6f69f9cd2ebbba56afed4e5b7cbbf459b30c90d17b"
 metafile = true
