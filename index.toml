@@ -1114,6 +1114,11 @@ hash = "130a6604604947c3cc2e739afe4e1fcf31fa52779ee2a955af50c7fafe029f4a"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "8d11358dfd1f3591ee0ce8728d6a3234e1edef5db39c52fe68264ecf7684968d"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "349c06c50fa315e9eb618d115f7d1391062706021c645e14f86afae3109d4662"
 metafile = true
