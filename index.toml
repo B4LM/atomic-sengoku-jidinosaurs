@@ -1339,6 +1339,11 @@ hash = "8562a9d8dd3634da756d6826aa984b5cbf11e55dff41690658f35968d690cdff"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
 file = "mods/steel-and-sakura.pw.toml"
 hash = "c5976457a6c589899e33f50fd924ba2ea4506c578e895fd9d0f4022601a2d181"
 metafile = true
