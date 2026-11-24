@@ -1039,6 +1039,11 @@ hash = "28ce51413cf71482c76526c8413732077bf9bcd0d1ebcf3264781632b3b1e971"
 metafile = true
 
 [[files]]
+file = "mods/construction-sticks.pw.toml"
+hash = "9b6b6c2df542f56997cbe10029138858dd274266cceef5cbbb81ed876571afef"
+metafile = true
+
+[[files]]
 file = "mods/corail-tombstone.pw.toml"
 hash = "e82f9886f1d2ae2315477eb420867cf0449200c5a70b85904a3067cb2230798d"
 metafile = true
